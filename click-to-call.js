@@ -379,7 +379,7 @@ class ClickToCall extends HTMLElement {
       // Inicializar c2c.newButton
       const userAgentSettings = {
         from: "T12_2013",
-        to: "3072050411",
+        to: "3072018444",
         params: {
           click2call: "yes",
         },
